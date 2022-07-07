@@ -1,0 +1,5 @@
+﻿const pageReporte = {
+    init: function () {
+
+    }
+};

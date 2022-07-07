@@ -1,0 +1,331 @@
+﻿
+@{
+    ViewBag.Title = "Ver Mascotas Perdidas";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0"> Mascotas <small> </small></h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Buscador de Mascotas</a></li>
+                    <li class="breadcrumb-item"><a href="#">Mascotas</a></li>
+                    <li class="breadcrumb-item active">@ViewBag.Title</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<!-- Main content -->
+<div class="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="card card-primary card-outline  ">
+                    <div class="card-header">
+                        <h4 class="card-title"> Lista de Mascotas - Perdidas</h4>
+                    </div>
+                    <div class="card-body">
+
+                        <div class="row">
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <label>  DIP </label>
+                                    <input id="txt-DIP" name="DIP" type="text" class="form-control" maxlength="20">
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <label> Nombre </label>
+                                    <input id="txt-nombremascota" name="nombremascota" type="text" class="form-control" maxlength="20">
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <label> Descripción Adicional  </label>
+                                    <input id="txt-descripmascota" name="descripmascota" type="text" class="form-control" maxlength="250">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <label>  Género </label>
+                                    <select id="cbo-generomascota" name="generomascota" class="form-control">
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <label> Color  </label>
+                                    <select id="cbo-color" name="color" class="form-control">
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <label> Tamaño  </label>
+                                    <select id="cbo-tamanio" name="tamanio" class="form-control">
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <label> Raza </label>
+                                    <select id="cbo-raza" name="raza" class="form-control">
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <label> Cola  </label>
+                                    <select id="cbo-cola" name="cola" class="form-control">
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <label> Orejas </label>
+                                    <select id="cbo-orejas" name="orejas" class="form-control">
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="float-right">
+                                    <div class="btn-group">
+                                        <button id="btn-buscar" type="button" class="btn btn-success btn-block">
+                                            <i class="fas fa-search-plus"></i>  Buscar
+                                        </button>
+                                    </div>
+
+                                    <div class="btn-group">
+                                        <button id="btn-limpiar" type="button" class="btn btn-primary btn-block">
+                                            <i class="fas fa-eraser"></i>  Limpiar
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <br />
+
+                        <div class="row">
+                            <div class="col-12">
+                                <table id="tblMascotas" class="table table-bordered table-hover">
+                                    <thead>
+                                        <tr>
+                                            <th>DIP</th>
+                                            <th>Nombre</th>
+                                            <th>Caracteristicas</th>
+                                            <th>Reporte Perdida</th>
+                                            <th>Foto</th>
+                                            <th>Estado</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.content -->
+<!-- Modal Reportar Mascotas -->
+<div class="modal fade" id="modal-reportar-mascota" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Ver Detalle Reportar Mascota</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <form id="frm-registro-reportar" role="form">
+                <div class="modal-body">
+
+                    <div style="pointer-events: none;">
+
+                        <input id="IdMascota" type="hidden" value="" />
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label> Fecha Perdida </label>
+                                    <div class="input-group date" id="txt-fechaPerdida" data-target-input="nearest">
+                                        <input type="text" name="fechaperdida" class="form-control datetimepicker-input" data-target="#txt-fechaPerdida" />
+                                        <div class="input-group-append" data-target="#txt-fechaPerdida" data-toggle="datetimepicker">
+                                            <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3" id="divFechaEncontrado">
+                                <div class="form-group">
+                                    <label> Fecha Encontrado </label>
+                                    <div class="input-group date" id="txt-fechaEncontrado" data-target-input="nearest">
+                                        <input type="text" name="fechaencontrado" class="form-control datetimepicker-input" data-target="#txt-fechaPerdida" />
+                                        <div class="input-group-append" data-target="#txt-fechaEncontrado" data-toggle="datetimepicker">
+                                            <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label>  Distrito </label>
+                                    <select id="cbo-distrito" name="distrito" class="form-control">
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label> Dirección  </label>
+                                    <input id="txt-direccion" name="direccion" type="text" class="form-control" maxlength="50">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label> Detalle de Perdida  </label>
+                                    <input id="txt-det-perdida" name="perdida" type="text" class="form-control" maxlength="50">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12" style="display:none;">
+                                <div class="form-group">
+                                    <label> Descripción Adicional </label>
+                                    <input id="txt-adicional" name="adicional" type="text" class="form-control" maxlength="250" readonly>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label> Dueño </label>
+                                    <input id="txt-duenio" name="duenio" type="text" class="form-control" maxlength="250" readonly>
+                                </div>
+                            </div>
+                            <div class="col-md-5">
+                                <div class="form-group">
+                                    <label> Correo </label>
+                                    <input id="txt-correo" name="correo" type="text" class="form-control" maxlength="250" readonly>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label> Reportar </label>
+                                    <input id="checkbox-reportar" type="checkbox" name="checkbox-reportar" unchecked
+                                           data-width="100%"
+                                           data-bootstrap-switch
+                                           data-on-color="success" data-on-text="Encontrado"
+                                           data-off-color="danger" data-off-text="Perdido">
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="card card-outline card-primary">
+                            <div class="card-header">
+                                <h3 class="card-title">Contactos</h3>
+                                <div class="card-tools">
+                                    <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                                        <i class="fas fa-minus"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div style="display:none;">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="form-group">
+                                                <label>  Red Social </label>
+                                                <select id="cbo-redSocial" name="redSocial" class="form-control">
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <div class="form-group">
+                                                <label> Contacto</label>
+                                                <input id="txt-contacto" name="contacto" type="text" class="form-control" maxlength="50">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="float-right">
+                                                <div class="btn-group">
+                                                    <button type="button" class="btn btn-success btn-sm" id="btnAgregarRedSocial">
+                                                        <i class="fas fa-plus-circle"></i>&nbsp;&nbsp; Red Social
+                                                    </button>
+                                                </div>
+                                                <div class="btn-group">
+                                                    <button type="button" class="btn btn-primary btn-sm" id="btnCrearRedSocial">
+                                                        <i class="fas fa-plus-circle"></i>&nbsp;&nbsp; Nueva Red Social
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <br />
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="table-responsive">
+                                            <table id="tblContacto" class="table table-bordered table-striped table-hover table-condensed" style="width:100%;">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Red Social</th>
+                                                        <th>Contacto</th>
+                                                        <th></th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="modal-footer justify-content-between" style="display:none;">
+                    <button type="submit" class="btn btn-success">Registrar</button>
+                    <button id="btn-rm-cancelar" type="button" class="btn btn-danger" data-dismiss="modal">Cancelar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script src="@Url.Content("~/Assets/dist/js/pages/ListarMascotasPerdidas.js")"></script>
+
+    <script>
+        pageListadoMP.init();
+
+
+    </script>
+}

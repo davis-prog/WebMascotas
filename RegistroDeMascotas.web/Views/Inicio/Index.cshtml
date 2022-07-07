@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Portal Mascotas";
+}
+
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0"> Portal de Inicio<small> </small></h1>
+                
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item"><a href="#">Inicio</a></li>
+                    <li class="breadcrumb-item active">@ViewBag.Title</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<!-- Main content -->
+<div class="content">
+    <div class="container">
+      
+        <div class="col-12">
+            <img width="100%" height="75%" src="~/Assets/dist/img/pets_banner.png" />
+        </div>
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content -->
+@section scripts{
+
+    @*<script src="@Url.Content("~/Assets/dist/js/pages/RegistroDeUsuarioMascota.js")"></script>
+    <script>
+        pageRegistroDeUsuarioMascota.init();
+
+
+    </script>*@
+}

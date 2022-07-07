@@ -1,0 +1,43 @@
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csproj.AssemblyReference.cache
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csproj.CoreCompileInputs.cache
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BL.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BL.pdb
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BE.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.DA.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BE.pdb
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.DA.pdb
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BL.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BL.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BE.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.DA.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BE.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.DA.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csprojAssemblyReference.cache
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csproj.CopyComplete
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.pdb
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BL.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BL.pdb
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BE.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.DA.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BE.pdb
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.DA.pdb
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csproj.AssemblyReference.cache
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csproj.CopyComplete
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.pdb
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BL.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BL.pdb
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BE.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.DA.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.BE.pdb
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\bin\Debug\RegistroDeMascotas.DA.pdb
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csprojAssemblyReference.cache
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.csproj.CopyComplete
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.BL\obj\Debug\RegistroDeMascotas.BL.pdb

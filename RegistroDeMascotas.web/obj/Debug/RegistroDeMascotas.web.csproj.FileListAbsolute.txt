@@ -1,0 +1,374 @@
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.dll.config
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.pdb
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.exe
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.exe.config
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.rsp
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.exe
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.exe.config
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.rsp
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.AppContext.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Collections.Immutable.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Console.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Globalization.Calendars.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.Compression.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.FileSystem.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Net.Http.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Net.Sockets.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Reflection.Metadata.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.ValueTuple.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XPath.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.exe
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.exe.config
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.rsp
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\VBCSCompiler.exe
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\VBCSCompiler.exe.config
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Web.Infrastructure.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Helpers.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Mvc.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Razor.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Deployment.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Razor.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Razor.xml
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.xml
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Deployment.xml
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Razor.xml
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Helpers.xml
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Mvc.xml
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Razor.resources.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.resources.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Helpers.resources.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Mvc.resources.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csproj.AssemblyReference.cache
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csproj.CoreCompileInputs.cache
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.dll
+D:\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.dll.config
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.exe
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.exe.config
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.rsp
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.exe
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.exe.config
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.rsp
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.AppContext.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Console.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.Compression.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Net.Http.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Net.Sockets.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.ValueTuple.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XPath.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.exe
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.exe.config
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.rsp
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Helpers.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Mvc.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Razor.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Deployment.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Razor.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Razor.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Deployment.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Razor.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Helpers.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Mvc.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Razor.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Helpers.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Mvc.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csprojAssemblyReference.cache
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csproj.CopyComplete
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Identity.Client.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Newtonsoft.Json.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Owin.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.BE.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.BE.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Identity.Client.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Newtonsoft.Json.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.dll.config
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.pdb
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.exe
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.exe.config
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.rsp
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.exe
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.exe.config
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.rsp
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.AppContext.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Console.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.Compression.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Net.Http.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.ValueTuple.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.exe
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.exe.config
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.rsp
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\VBCSCompiler.exe
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Identity.Client.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Newtonsoft.Json.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Owin.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.BE.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Helpers.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Mvc.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Razor.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Razor.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.BE.pdb
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Identity.Client.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Newtonsoft.Json.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Razor.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Razor.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Helpers.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Mvc.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Razor.resources.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.resources.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csproj.AssemblyReference.cache
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csproj.CopyComplete
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.dll
+C:\Users\wendy\Downloads\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.pdb
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.dll.config
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.web.pdb
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.exe
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.exe.config
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csc.rsp
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.exe
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.exe.config
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\csi.rsp
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.AppContext.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Console.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.Compression.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Net.Http.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Net.Sockets.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.ValueTuple.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XPath.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.exe
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.exe.config
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\vbc.rsp
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Identity.Client.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Newtonsoft.Json.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Owin.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.BE.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Helpers.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Mvc.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Razor.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Deployment.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Razor.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\RegistroDeMascotas.BE.pdb
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Identity.Client.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Newtonsoft.Json.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Razor.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Deployment.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Webpages.Razor.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Helpers.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\System.Web.Mvc.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Razor.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Helpers.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\bin\es\System.Web.Mvc.resources.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csprojAssemblyReference.cache
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.csproj.CopyComplete
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.dll
+D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.web\obj\Debug\RegistroDeMascotas.web.pdb

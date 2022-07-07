@@ -1,0 +1,133 @@
+﻿
+@{
+    ViewBag.Title = "Datos Usuario";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0"> Datos  <small>Usuario</small></h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Inicio</a></li>
+                    <li class="breadcrumb-item"><a href="#">Usuario</a></li>
+                    <li class="breadcrumb-item active">@ViewBag.Title</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<!-- Main content -->
+<div class="content">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-1"></div>
+            <div class="col-lg-10">
+                <form id="frm-actualizar">
+                    <div class="card card-primary card-outline">
+                        <div class="card-header">
+                            <h5 class="card-title m-0">Actualizar Datos </h5>
+                        </div>
+                        <div class="card-body ">
+                            <div class="row" style="pointer-events: none;">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Tipo de Documento</label>
+                                        <select id="cbo-tipodedocumento" name="tipodedocumento" class="form-control">
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Número de Documento </label>
+                                        <input id="txt-numdocumento" name="numdocumento" type="text" class="form-control" maxlength="8">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <label>Nombres </label>
+                                        <input id="txt-nombres" name="nombres" type="text" class="form-control" maxlength="20">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <label> Apellido Paterno </label>
+                                        <input id="txt-apellidopaterno" name="apellidopaterno" type="text" class="form-control" maxlength="30">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <label> Apellido Materno </label>
+                                        <input id="txt-apellidomaterno" name="apellidomaterno" type="text" class="form-control" maxlength="30">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <label>  Correo Electrónico </label>
+                                        <input id="txt-correoelectronico" name="correoelectronico" type="email" class="form-control" maxlength="100">
+
+                                    </div>
+
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label> Telefono Celular </label>
+                                        <input id="txt-telefonocelular" name="telefonocelular" type="text" class="form-control" maxlength="9">
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label> Telefono Fijo  </label>
+                                        <input id="txt-telefonofijo" name="telefonofijo" type="text" class="form-control" maxlength="7">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <label>Género </label>
+                                        <select id="cbo-genero" name="genero" class="form-control">
+                                        </select>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="card-footer">
+                            <div class="row">
+                                <div class="col-md-2">
+                                    <button type="submit" class="btn btn-success btn-block">Actualizar</button>
+                                </div>
+                                <div class="col-md-2">
+                                    <button id="btn-cancelar" type="button" class="btn btn-danger btn-block">Cancelar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-lg-1"></div>
+        </div>
+    </div>
+</div>
+<!-- /.content -->
+
+
+
+@section scripts{
+
+    <script src="@Url.Content("~/Assets/dist/js/pages/CambiarDatos.js")"></script>
+    <script>
+        pageCambiarDatos.init();
+
+
+    </script>
+}

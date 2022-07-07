@@ -1,0 +1,307 @@
+﻿
+@{
+    ViewBag.Title = "Registra tu Mascota";
+}
+
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">  <small>Registro de Identificación de Mascota</small></h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Inicio</a></li>
+                    <li class="breadcrumb-item"><a href="#">Usuario</a></li>
+                    <li class="breadcrumb-item active">@ViewBag.Title</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<!-- Main content -->
+<div class="content">
+    <div class="container">
+
+        <form id="frm-registro">
+            <div class="row">
+                <div class="col-12 col-sm-12">
+
+                    <div class="card card-primary card-outline">
+                        <div class="card-header">
+                            <h3 class="card-title">Registro del Usuario - Mascota</h3>
+                        </div>
+                        <div class="card-body p-0">
+                            <div class="bs-stepper">
+                                <div class="bs-stepper-header" role="tablist">
+                                    <!-- your steps here -->
+                                    <div class="step" data-target="#logins-part">
+                                        <button type="button" class="step-trigger" role="tab" aria-controls="logins-part" id="logins-part-trigger">
+                                            <span class="bs-stepper-circle">1</span>
+                                            <span class="bs-stepper-label">Usuario</span>
+                                        </button>
+                                    </div>
+                                    <div class="line"></div>
+                                    <div class="step" data-target="#information-part">
+                                        <button type="button" class="step-trigger" role="tab" aria-controls="information-part" id="information-part-trigger">
+                                            <span class="bs-stepper-circle">2</span>
+                                            <span class="bs-stepper-label">Mascota</span>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="bs-stepper-content">
+                                    <!-- your steps content here -->
+                                    <div id="logins-part" class="content" role="tabpanel" aria-labelledby="logins-part-trigger">
+
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label>Nombres </label>
+                                                    <input id="txt-nombres" name="nombres" type="text" class="form-control" maxlength="20">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label> Apellido Paterno </label>
+                                                    <input id="txt-apellidopaterno" name="apellidopaterno" type="text" class="form-control" maxlength="30">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label> Apellido Materno </label>
+                                                    <input id="txt-apellidomaterno" name="apellidomaterno" type="text" class="form-control" maxlength="30">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label>Tipo de Documento</label>
+                                                    <select id="cbo-tipodedocumento" name="tipodedocumento" class="form-control">
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label>Número de Documento </label>
+                                                    <input id="txt-numdocumento" name="numdocumento" type="text" class="form-control" maxlength="8">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label>  Correo Electrónico </label>
+                                                    <input id="txt-correoelectronico" name="correoelectronico" type="email" class="form-control" maxlength="100">
+
+                                                </div>
+                                               
+                                            </div>
+                                            <div class="col-md-2">
+                                                <div class="form-group">
+                                                    <label> Telefono Celular </label>
+                                                    <input id="txt-telefonocelular" name="telefonocelular" type="text" class="form-control" maxlength="9">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-2">
+                                                <div class="form-group">
+                                                    <label> Telefono Fijo  </label>
+                                                    <input id="txt-telefonofijo" name="telefonofijo" type="text" class="form-control" maxlength="7">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label>Género </label>
+                                                    <select id="cbo-genero" name="genero" class="form-control">
+                                                    </select>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label>  Contraseña  </label>
+                                                    <input id="txt-contrasenia" name="contrasenia" type="password" class="form-control" maxlength="5">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label> Repetir Contraseña </label>
+                                                    <input id="txt-repetircontraseña" name="repetircontraseña" type="password" class="form-control" maxlength="5">
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label> Pregunta de Seguridad </label>
+                                                    <select id="cbo-preguntadeseguridad" name="preguntadeseguridad" class="form-control">
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label>  Respuesta de Seguridad </label>
+                                                    <input id="txt-respuestadeseguridad" name="respuestadeseguridad" type="text" class="form-control" maxlength="100">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="float-left">
+                                                    <button id="btn-continuar" type="button" class="btn btn-primary btn-block">Continuar - Registro de Mascota</button>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div id="information-part" class="content" role="tabpanel" aria-labelledby="information-part-trigger">
+
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label>  DIP </label>
+                                                    <input id="txt-DIP" name="DIP" type="text" class="form-control" maxlength="20" readonly>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label> Nombre </label>
+                                                    <input id="txt-nombremascota" name="nombremascota" type="text" class="form-control" maxlength="20">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label>  Género </label>
+                                                    <select id="cbo-generomascota" name="generomascota" class="form-control">
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label> Color  </label>
+                                                    <select id="cbo-color" name="color" class="form-control">
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label> Tamaño  </label>
+                                                    <select id="cbo-tamanio" name="tamanio" class="form-control">
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label> Raza </label>
+                                                    <select id="cbo-raza" name="raza" class="form-control">
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label> Cola  </label>
+                                                    <select id="cbo-cola" name="cola" class="form-control">
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label> Orejas </label>
+                                                    <select id="cbo-orejas" name="orejas" class="form-control">
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label>  Edad </label>
+                                                    <input id="txt-edad" name="edad" type="text" class="form-control" maxlength="2">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label> Fotos </label>
+                                                    @*<div class="custom-file">
+                                                            <input type="file" class="custom-file-input" id="txt-foto" name="foto" multiple="multiple" accept="image/png, image/jpeg">
+                                                            <label class="custom-file-label" for="txt-foto">Elegir archivos</label>
+                                                        </div>*@
+
+                                                    <input id="txt-foto" name="foto" type="file" class="form-control"
+                                                           multiple="multiple" accept="image/png, image/jpeg">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <div class="form-group">
+                                                    <label> Descripción Adicional  </label>
+                                                    <input id="txt-descripmascota" name="descripmascota" type="text" class="form-control" maxlength="250">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-1">
+                                                <div class="float-left">
+                                                    <button id="btn-regresar" type="button" class="btn btn-primary btn-block">Regresar</button>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-2">
+                                                <div class="float-left">
+                                                    <button type="submit" class="btn btn-success btn-block">Registrar</button> 
+                                                </div>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div class="float-right">
+                                                    <button id="btn-cancelar" type="button" class="btn btn-danger btn-block">Cancelar</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+
+                    <!-- /.card -->
+                </div>
+            </div>
+            <!-- /.row -->
+        </form>
+
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content -->
+
+
+
+
+@section scripts{
+
+    <script src="@Url.Content("~/Assets/dist/js/pages/RegistroDeUsuarioMascota.js")"></script>
+    <script>
+        pageRegistroDeUsuarioMascota.init();
+
+
+    </script>
+}
+ 

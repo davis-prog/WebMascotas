@@ -1,0 +1,80 @@
+﻿@using Microsoft.AspNet.Identity
+@using System.Security.Claims;
+
+@if (User.Identity.IsAuthenticated)
+{
+    <li class="nav-item dropdown user-menu">
+
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+            @{
+                var IdGenero = ((ClaimsIdentity)User.Identity).Claims.Where(x => x.Type == "IdGenero").FirstOrDefault().Value;
+                if (IdGenero == "1")
+                {
+                    <img src="~/Assets/dist/img/avatar5.png" class="user-image img-circle elevation-2" alt="User Image">
+                }
+                else
+                {
+                    <img src="~/Assets/dist/img/avatar2.png" class="user-image img-circle elevation-2" alt="User Image">
+                }
+            }
+            <span class="d-none d-md-inline">@User.Identity.GetUserName().ToUpper()</span>
+        </a>
+        <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
+            <!-- User image -->
+            <li class="user-header bg-primary">
+                @{
+                    var IdGenero2 = ((ClaimsIdentity)User.Identity).Claims.Where(x => x.Type == "IdGenero").FirstOrDefault().Value;
+                    if (IdGenero2 == "1")
+                    {
+                        <img src="~/Assets/dist/img/avatar5.png" class="img-circle elevation-2" alt="User Image">
+                    }
+                    else
+                    {
+                        <img src="~/Assets/dist/img/avatar2.png" class="img-circle elevation-2" alt="User Image">
+                    }
+
+                }
+                <p>
+                    @User.Identity.GetUserName().ToUpper() - Pet Lover
+                    <input id="ID_Usuario" type="hidden" value="@User.Identity.GetUserId().ToString()" />
+
+                    @{
+                        var valor = ((ClaimsIdentity)User.Identity).Claims.Where(x => x.Type == "NumDocumento").FirstOrDefault().Value;
+                        <small> @valor  </small>
+                        <input id="NumDocumento" type="hidden" value="@valor.ToString()" />
+                    }
+
+                </p>
+            </li>
+            <!-- Menu Body -->
+            @*<li class="user-body">
+                    <div class="row">
+                        <div class="col-4 text-center">
+                            <a href="#">Followers</a>
+                        </div>
+                        <div class="col-4 text-center">
+                            <a href="#">Sales</a>
+                        </div>
+                        <div class="col-4 text-center">
+                            <a href="#">Friends</a>
+                        </div>
+                    </div>
+                     /.row
+                </li>*@
+            <!-- Menu Footer-->
+            <li class="user-footer">
+                @*<a href="#" class="btn btn-default btn-flat">Profile</a>*@
+
+
+                @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <a href="javascript:document.getElementById('logoutForm').submit()" class="btn btn-default btn-flat float-right">Cerrar sesi&oacute;n</a>
+                }
+
+
+            </li>
+        </ul>
+    </li>
+
+}
