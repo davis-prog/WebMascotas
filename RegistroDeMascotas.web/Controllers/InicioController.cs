@@ -8,7 +8,7 @@ namespace RegistroDeMascotas.web.Controllers
 {
     public class InicioController : Controller
     {
-        // GET: Inicio
+        // GET: Inicio 
         public ActionResult Index()
         {
             return View();
