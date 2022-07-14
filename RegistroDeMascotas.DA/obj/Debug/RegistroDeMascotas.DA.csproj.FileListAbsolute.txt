@@ -33,3 +33,12 @@ D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\Regis
 D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.DA\obj\Debug\RegistroDeMascotas.DA.csproj.CopyComplete
 D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.DA\obj\Debug\RegistroDeMascotas.DA.dll
 D:\Proyectos Personales\Proyecto Mascotas\Version_3\WebMascotas_Integrador\RegistroDeMascotas\RegistroDeMascotas\RegistroDeMascotas.DA\obj\Debug\RegistroDeMascotas.DA.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas\RegistroDeMascotas.DA\bin\Debug\RegistroDeMascotas.DA.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas\RegistroDeMascotas.DA\bin\Debug\RegistroDeMascotas.DA.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas\RegistroDeMascotas.DA\bin\Debug\RegistroDeMascotas.BE.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas\RegistroDeMascotas.DA\bin\Debug\RegistroDeMascotas.BE.pdb
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas\RegistroDeMascotas.DA\obj\Debug\RegistroDeMascotas.DA.csprojAssemblyReference.cache
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas\RegistroDeMascotas.DA\obj\Debug\RegistroDeMascotas.DA.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas\RegistroDeMascotas.DA\obj\Debug\RegistroDeMascotas.DA.csproj.CopyComplete
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas\RegistroDeMascotas.DA\obj\Debug\RegistroDeMascotas.DA.dll
+D:\Proyectos Personales\Proyecto Mascotas\WebMascotas\RegistroDeMascotas.DA\obj\Debug\RegistroDeMascotas.DA.pdb
