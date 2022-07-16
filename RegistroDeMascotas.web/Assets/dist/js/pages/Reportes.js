@@ -1,5 +1,4 @@
-﻿import { setTimeout } from "timers";
-
+﻿ 
 const pageReporte = {
     init: function () {
 
@@ -29,7 +28,19 @@ const pageReporte = {
         });
 
         $("#btn-anio").click(function (e) {
-            pageReporte.methods.ReporteMascotasMeses();
+            var div = $('#divChart');
+
+            div.html('');
+
+            setTimeout(function () {
+                var canvas = '<canvas id="stackedBarChart" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>' ;
+
+                div.html(canvas);
+                pageReporte.methods.ReporteMascotasMeses();
+
+            }, 1000);
+
+          
         });
 
 
@@ -281,6 +292,7 @@ const pageReporte = {
             $('#MR').html(pageReporte.data.listaTotales[1].Total);
             $('#ME').html(pageReporte.data.listaTotales[2].Total);
             $('#MP').html(pageReporte.data.listaTotales[3].Total);
+            $('#MReportadas').html(pageReporte.data.listaTotales[4].Total); 
         },
 
         ReporteMascotasDias: function () {
